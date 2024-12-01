@@ -4,7 +4,7 @@ Este repositório contém a configuração para o microserviço de pagamentos, u
 
 ## Estrutura do Projeto
 
-### `kubernetes/payments/`
+### `kubernetes/Payments/`
 
 Contém os arquivos YAML necessários para configurar o microserviço de pagamentos no Kubernetes:
 
